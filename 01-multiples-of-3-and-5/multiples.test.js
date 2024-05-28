@@ -1,0 +1,1 @@
+import { multiples } from "./index";

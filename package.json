@@ -1,0 +1,22 @@
+{
+  "name": "algorithmchallenge",
+  "version": "1.0.0",
+  "description": "a collection of problems and solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quenyoni/AlgorithmChallenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quenyoni/AlgorithmChallenge/issues"
+  },
+  "homepage": "https://github.com/quenyoni/AlgorithmChallenge#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
